@@ -1,0 +1,30 @@
+{
+  "name": "tickets",
+  "version": "0.0.1",
+  "description": "A Ticket application",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "^1.4.8",
+    "angular-material": "^0.11.4",
+    "pouchdb": "^5.1.0",
+    "pouchdb-find": "^0.7.0",
+    "pouchdb-upsert": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pujie/tickets.git"
+  },
+  "keywords": [
+    "tickets"
+  ],
+  "author": "Puji W Prayitno",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pujie/tickets/issues"
+  },
+  "homepage": "https://github.com/pujie/tickets#readme"
+}
